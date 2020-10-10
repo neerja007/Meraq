@@ -1,0 +1,631 @@
+1	span>ABBV	span>AbbVie Inc.
+2	span>ABEO	span>Abeona Therapeutics Inc.
+3	span>ABIO	span>ARCA biopharma Inc.
+4	span>ABUS	span>Arbutus Biopharma Corporation
+5	span>ACAD	span>ACADIA Pharmaceuticals Inc.
+6	span>ACER	span>Acer Therapeutics Inc.
+7	span>ACET	span>Adicet Bio Inc.
+8	span>ACHV	span>Achieve Life Sciences Inc.
+9	span>ACIU	span>AC Immune SA
+10	span>ACOR	span>Acorda Therapeutics Inc.
+11	span>ACRS	span>Aclaris Therapeutics Inc.
+12	span>ACRX	span>AcelRx Pharmaceuticals Inc.
+13	span>ACST	span>Acasti Pharma Inc.
+14	span>ADAP	span>Adaptimmune Therapeutics plc
+15	span>ADCT	span>ADC Therapeutics SA
+16	span>ADIL	span>Adial Pharmaceuticals Inc
+17	span>ADMA	span>ADMA Biologics Inc
+18	span>ADMP	span>Adamis Pharmaceuticals Corporation
+19	span>ADMS	span>Adamas Pharmaceuticals Inc.
+20	span>ADTX	span>ADiTx Therapeutics Inc.
+21	span>ADVM	span>Adverum Biotechnologies Inc.
+22	span>ADXS	span>Advaxis Inc.
+23	span>AERI	span>Aerie Pharmaceuticals Inc.
+24	span>AEZS	span>Aeterna Zentaris Inc.
+25	span>AFMD	span>Affimed N.V.
+26	span>AGEN	span>Agenus Inc.
+27	span>AGIO	span>Agios Pharmaceuticals Inc.
+28	span>AGLE	span>Aeglea BioTherapeutics Inc.
+29	span>AGRX	span>Agile Therapeutics Inc.
+30	span>AGTC	span>Applied Genetic Technologies Corporation
+31	span>AIM	span>AIM ImmunoTech Inc.
+32	span>AIMT	span>Aimmune Therapeutics Inc.
+33	span>AKBA	span>Akebia Therapeutics Inc.
+34	span>AKCA	span>Akcea Therapeutics Inc.
+35	span>AKER	span>Akers Biosciences Inc.
+36	span>AKRO	span>Akero Therapeutics Inc.
+37	span>AKTX	span>Akari Therapeutics Plc
+38	span>AKUS	span>Akouos Inc.
+39	span>ALBO	span>Albireo Pharma Inc.
+40	span>ALDX	span>Aldeyra Therapeutics Inc.
+41	span>ALEC	span>Alector Inc.
+42	span>ALIM	span>Alimera Sciences Inc.
+43	span>ALKS	span>Alkermes plc
+44	span>ALLK	span>Allakos Inc.
+45	span>ALLO	span>Allogene Therapeutics Inc.
+46	span>ALNA	span>Allena Pharmaceuticals Inc.
+47	span>ALNY	span>Alnylam Pharmaceuticals Inc.
+48	span>ALPN	span>Alpine Immune Sciences Inc.
+49	span>ALRN	span>Aileron Therapeutics Inc.
+50	span>ALT	span>Altimmune Inc.
+51	span>ALVR	span>AlloVir Inc.
+52	span>ALXN	span>Alexion Pharmaceuticals Inc.
+53	span>ALXO	span>ALX Oncology Holdings Inc.
+54	span>AMAG	span>AMAG Pharmaceuticals Inc.
+55	span>AMGN	span>Amgen Inc.
+56	span>AMPE	span>Ampio Pharmaceuticals Inc.
+57	span>AMPH	span>Amphastar Pharmaceuticals Inc.
+58	span>AMRN	span>Amarin Corporation plc
+59	span>AMRX	span>Amneal Pharmaceuticals Inc. Class A
+60	span>AMTI	span>Applied Molecular Transport Inc.
+61	span>ANAB	span>AnaptysBio Inc.
+62	span>ANCN	span>Anchiano Therapeutics Ltd.
+63	span>ANIK	span>Anika Therapeutics Inc.
+64	span>ANIP	span>ANI Pharmaceuticals Inc.
+65	span>ANIX	span>Anixa Biosciences Inc.
+66	span>ANNX	span>Annexon Inc.
+67	span>ANVS	span>Annovis Bio Inc.
+68	span>APLS	span>Apellis Pharmaceuticals Inc.
+69	span>APLT	span>Applied Therapeutics Inc.
+70	span>APRE	span>Aprea Therapeutics Inc.
+71	span>APTO	span>Aptose Biosciences Inc.
+72	span>APTX	span>Aptinyx Inc.
+73	span>APVO	span>Aptevo Therapeutics Inc.
+74	span>AQST	span>Aquestive Therapeutics Inc.
+75	span>ARAV	span>Aravive Inc.
+76	span>ARCT	span>Arcturus Therapeutics Holdings Inc.
+77	span>ARDS	span>Aridis Pharmaceuticals Inc.
+78	span>ARDX	span>Ardelyx Inc.
+79	span>ARGX	span>argenx SE
+80	span>ARMP	span>Armata Pharmaceuticals Inc.
+81	span>ARNA	span>Arena Pharmaceuticals Inc.
+82	span>ARPO	span>Aerpio Pharmaceuticals Inc.
+83	span>ARQT	span>Arcutis Biotherapeutics Inc.
+84	span>ARVN	span>Arvinas Inc.
+85	span>ARWR	span>Arrowhead Pharmaceuticals Inc.
+86	span>ASLN	span>ASLAN Pharmaceuticals Limited
+87	span>ASMB	span>Assembly Biosciences Inc.
+88	span>ASND	span>Ascendis Pharma A/S
+89	span>ASRT	span>Assertio Holdings Inc.
+90	span>ATHA	span>Athira Pharma Inc.
+91	span>ATHE	span>Alterity Therapeutics Limited
+92	span>ATHX	span>Athersys Inc.
+93	span>ATNM	span>Actinium Pharmaceuticals Inc. (Delaware)
+94	span>ATNX	span>Athenex Inc.
+95	span>ATOS	span>Atossa Therapeutics Inc.
+96	span>ATRA	span>Atara Biotherapeutics Inc.
+97	span>ATRS	span>Antares Pharma Inc.
+98	span>ATXI	span>Avenue Therapeutics Inc.
+99	span>AUPH	span>Aurinia Pharmaceuticals Inc
+100	span>AUTL	span>Autolus Therapeutics plc
+101	span>AVDL	span>Avadel Pharmaceuticals plc
+102	span>AVEO	span>AVEO Pharmaceuticals Inc.
+103	span>AVRO	span>AVROBIO Inc.
+104	span>AVXL	span>Anavex Life Sciences Corp.
+105	span>AXGN	span>Axogen Inc.
+106	span>AXGT	span>Axovant Gene Therapies Ltd.
+107	span>AXLA	span>Axcella Health Inc.
+108	span>AXSM	span>Axsome Therapeutics Inc.
+109	span>AYLA	span>Ayala Pharmaceuticals Inc.
+110	span>AZN	span>AstraZeneca PLC
+111	span>AZRX	span>AzurRx BioPharma Inc.
+112	span>BBI	"span>Brickell Biotech, Inc."
+113	span>BBIO	span>BridgeBio Pharma Inc.
+114	span>BCDA	span>BioCardia Inc.
+115	span>BCEL	span>Atreca Inc.
+116	span>BCLI	span>Brainstorm Cell Therapeutics Inc.
+117	span>BCRX	span>BioCryst Pharmaceuticals Inc.
+118	span>BCYC	span>Bicycle Therapeutics plc
+119	span>BDSI	span>BioDelivery Sciences International Inc.
+120	span>BDTX	span>Black Diamond Therapeutics Inc.
+121	span>BEAM	span>Beam Therapeutics Inc.
+122	span>BFRA	span>Biofrontera AG
+123	span>BGNE	span>BeiGene Ltd.
+124	span>BHC	span>Bausch Health Companies Inc.
+125	span>BHVN	span>Biohaven Pharmaceutical Holding Company Ltd.
+126	span>BIIB	span>Biogen Inc.
+127	span>BLCM	span>Bellicum Pharmaceuticals Inc.
+128	span>BLPH	span>Bellerophon Therapeutics Inc.
+129	span>BLRX	span>BioLineRx Ltd.
+130	span>BLU	span>BELLUS Health Inc.
+131	span>BLUE	span>bluebird bio Inc.
+132	span>BMRN	span>BioMarin Pharmaceutical Inc.
+133	span>BMY	span>Bristol-Myers Squibb Company
+134	span>BNTC	span>Benitec Biopharma Inc.
+135	span>BNTX	span>BioNTech SE
+136	span>BPMC	span>Blueprint Medicines Corporation
+137	span>BPTH	span>Bio-Path Holdings Inc.
+138	span>BSGM	span>BioSig Technologies Inc.
+139	span>BSTC	span>BioSpecifics Technologies Corp
+140	span>BTAI	span>BioXcel Therapeutics Inc.
+141	span>BVXV	span>BiondVax Pharmaceuticals Ltd.
+142	span>BXRX	span>Baudax Bio Inc.
+143	span>BYSI	span>BeyondSpring Inc.
+144	span>CABA	span>Cabaletta Bio Inc.
+145	span>CALA	span>Calithera Biosciences Inc.
+146	span>CALT	span>Calliditas Therapeutics AB
+147	span>CANF	span>Can-Fite Biopharma Ltd Sponsored ADR (Israel)
+148	span>CAPR	span>Capricor Therapeutics Inc.
+149	span>CARA	span>Cara Therapeutics Inc.
+150	span>CASI	span>CASI Pharmaceuticals Inc.
+151	span>CATB	span>Catabasis Pharmaceuticals Inc.
+152	span>CBAY	span>CymaBay Therapeutics Inc.
+153	span>CBIO	span>Catalyst Biosciences Inc.
+154	span>CBLI	span>Cleveland BioLabs Inc.
+155	span>CCCC	span>C4 Therapeutics Inc.
+156	span>CCXI	span>ChemoCentryx Inc.
+157	span>CDAK	span>Codatek Corp.
+158	span>CDMO	span>Avid Bioservices Inc.
+159	span>CDTX	span>Cidara Therapeutics Inc.
+160	span>CDXS	span>Codexis Inc.
+161	span>CERC	span>Cerecor Inc.
+162	span>CERS	span>Cerus Corporation
+163	span>CFRX	span>ContraFect Corporation
+164	span>CGEN	span>Compugen Ltd.
+165	span>CHMA	span>Chiasma Inc.
+166	span>CHRS	span>Coherus BioSciences Inc.
+167	span>CKPT	span>Checkpoint Therapeutics Inc.
+168	span>CLBS	span>Caladrius Biosciences Inc.
+169	span>CLDX	span>Celldex Therapeutics Inc.
+170	span>CLLS	span>Cellectis S.A.
+171	span>CLRB	span>Cellectar Biosciences Inc.
+172	span>CLSD	span>Clearside Biomedical Inc.
+173	span>CLSN	span>Celsion Corporation
+174	span>CLVS	span>Clovis Oncology Inc.
+175	span>CMPI	span>Checkmate Pharmaceuticals Inc.
+176	span>CMRX	span>Chimerix Inc.
+177	span>CNCE	span>Concert Pharmaceuticals Inc.
+178	span>CNSP	span>CNS Pharmaceuticals Inc.
+179	span>CNST	span>Constellation Pharmaceuticals Inc.
+180	span>COCP	span>Cocrystal Pharma Inc.
+181	span>COGT	span>Cogent Biosciences Inc.
+182	span>COLL	span>Collegium Pharmaceutical Inc.
+183	span>CORT	span>Corcept Therapeutics Incorporated
+184	span>CORV	span>Correvio Pharma Corp.
+185	span>CPIX	span>Cumberland Pharmaceuticals Inc.
+186	span>CPRX	span>Catalyst Pharmaceuticals Inc.
+187	span>CRBP	span>Corbus Pharmaceuticals Holdings Inc.
+188	span>CRDF	span>Cardiff Oncology Inc.
+189	span>CRIS	span>Curis Inc.
+190	span>CRMD	span>CorMedix Inc.
+191	span>CRNX	span>Crinetics Pharmaceuticals Inc.
+192	span>CRSP	span>CRISPR Therapeutics AG
+193	span>CRTX	span>Cortexyme Inc.
+194	span>CRVS	span>Corvus Pharmaceuticals Inc.
+195	span>CSII	span>Cardiovascular Systems Inc.
+196	span>CTIC	span>CTI BioPharma Corp.
+197	span>CTMX	span>CytomX Therapeutics Inc.
+198	span>CTXR	span>Citius Pharmaceuticals Inc.
+199	span>CUE	span>Cue Biopharma Inc.
+200	span>CVAC	span>CureVac N.V.
+201	span>CVM	span>Cel-Sci Corporation
+202	span>CWBR	span>CohBar Inc.
+203	span>CYAD	span>Celyad SA
+204	span>CYCC	span>Cyclacel Pharmaceuticals Inc.
+205	span>CYCN	span>Cyclerion Therapeutics Inc.
+206	span>CYDY	span>Cytodyn Inc
+207	span>CYTK	span>Cytokinetics Incorporated
+208	span>DARE	span>Dare Bioscience Inc.
+209	span>DBVT	span>DBV Technologies S.A.
+210	span>DCPH	span>Deciphera Pharmaceuticals Inc.
+211	span>DCTH	span>Delcath Systems Inc.
+212	span>DFFN	span>Diffusion Pharmaceuticals Inc.
+213	span>DMAC	span>DiaMedica Therapeutics Inc.
+214	span>DNLI	span>Denali Therapeutics Inc.
+215	span>DRMT	span>Dermavant Sciences Ltd - Ordinary Shares
+216	span>DRNA	span>Dicerna Pharmaceuticals Inc.
+217	span>DRRX	span>DURECT Corporation
+218	span>DTIL	span>Precision BioSciences Inc.
+219	span>DVAX	span>Dynavax Technologies Corporation
+220	span>DYN	span>Dyne Therapeutics Inc.
+221	span>EARS	span>Auris Medical Holding Ltd.
+222	span>EBS	span>Emergent Biosolutions Inc.
+223	span>EDAP	span>EDAP TMS S.A.
+224	span>EDIT	span>Editas Medicine Inc.
+225	span>EDSA	span>Edesa Biotech Inc.
+226	span>EGRX	span>Eagle Pharmaceuticals Inc.
+227	span>EIDX	span>Eidos Therapeutics Inc.
+228	span>EIGR	span>Eiger BioPharmaceuticals Inc.
+229	span>ELOX	span>Eloxx Pharmaceuticals Inc.
+230	span>ENDP	span>Endo International plc
+231	span>ENLV	span>Enlivex Therapeutics Ltd.
+232	span>ENTA	span>Enanta Pharmaceuticals Inc.
+233	span>ENTX	span>Entera Bio Ltd.
+234	span>EOLS	span>Evolus Inc.
+235	span>EPIX	span>ESSA Pharma Inc.
+236	span>EPZM	span>Epizyme Inc.
+237	span>EQ	span>Equillium Inc.
+238	span>ERYP	span>Erytech Pharma S.A.
+239	span>ESPR	span>Esperion Therapeutics Inc.
+240	span>ETNB	span>89bio Inc.
+241	span>ETON	span>Eton Pharmaceuticals Inc.
+242	span>ETTX	span>Entasis Therapeutics Holdings Inc.
+243	span>EVFM	span>Evofem Biosciences Inc.
+244	span>EVLO	span>Evelo Biosciences Inc.
+245	span>EVOK	span>Evoke Pharma Inc.
+246	span>EXAS	span>Exact Sciences Corporation
+247	span>EXEL	span>Exelixis Inc.
+248	span>EYEG	span>Eyegate Pharmaceuticals Inc.
+249	span>EYEN	span>Eyenovia Inc.
+250	span>EYPT	span>EyePoint Pharmaceuticals Inc.
+251	span>FATE	span>Fate Therapeutics Inc.
+252	span>FBIO	span>Fortress Biotech Inc.
+253	span>FENC	span>Fennec Pharmaceuticals Inc.
+254	span>FGEN	span>FibroGen Inc
+255	span>FIXX	span>Homology Medicines Inc.
+256	span>FLXN	span>Flexion Therapeutics Inc.
+257	span>FMTX	span>Forma Therapeutics Holdings Inc.
+258	span>FOLD	span>Amicus Therapeutics Inc.
+259	span>FPRX	span>Five Prime Therapeutics Inc.
+260	span>FREQ	span>Frequency Therapeutics Inc.
+261	span>FRLN	span>Freeline Therapeutics Holdings plc
+262	span>FULC	span>Fulcrum Therapeutics Inc.
+263	span>FUSN	span>Fusion Pharmaceuticals Inc.
+264	span>FWP	span>Forward Pharma A/S
+265	span>GALT	span>Galectin Therapeutics Inc.
+266	span>GBIO	span>Generation Bio Co.
+267	span>GBT	span>Global Blood Therapeutics Inc.
+268	span>GERN	span>Geron Corporation
+269	span>GILD	span>Gilead Sciences Inc.
+270	span>GKOS	span>Glaukos Corporation
+271	span>GLMD	span>Galmed Pharmaceuticals Ltd.
+272	span>GLPG	span>Galapagos NV
+273	span>GLYC	span>GlycoMimetics Inc.
+274	span>GMAB	span>Genmab A/S
+275	span>GMDA	span>Gamida Cell Ltd.
+276	span>GNCA	span>Genocea Biosciences Inc.
+277	span>GNFT	span>GENFIT S.A.
+278	span>GNPX	span>Genprex Inc.
+279	span>GOSS	span>Gossamer Bio Inc.
+280	span>GRTS	span>Gritstone Oncology Inc.
+281	span>GRTX	span>Galera Therapeutics Inc.
+282	span>GSK	span>GlaxoSmithKline PLC
+283	span>GTHX	span>G1 Therapeutics Inc.
+284	span>GWPH	span>GW Pharmaceuticals Plc
+285	span>HALO	span>Halozyme Therapeutics Inc.
+286	span>HARP	span>Harpoon Therapeutics Inc.
+287	span>HCM	span>Hutchison China MediTech Limited
+288	span>HEPA	span>Hepion Pharmaceuticals Inc.
+289	span>HOOK	span>HOOKIPA Pharma Inc.
+290	span>HOTH	span>Hoth Therapeutics Inc.
+291	span>HRMY	span>Harmony Biosciences Holdings Inc.
+292	span>HRTX	span>Heron Therapeutics Inc.
+293	span>HSTO	span>Histogen Inc.
+294	span>HTBX	span>Heat Biologics Inc.
+295	span>HZNP	span>Horizon Therapeutics Public Limited Company
+296	span>IBIO	span>iBio Inc.
+297	span>ICPT	span>Intercept Pharmaceuticals Inc.
+298	span>IDRA	span>Idera Pharmaceuticals Inc.
+299	span>IDYA	span>IDEAYA Biosciences Inc.
+300	span>IFRX	span>InflaRx N.V.
+301	span>IGMS	span>IGM Biosciences Inc.
+302	span>IGXT	span>IntelGenx Technologies Corp
+303	span>IMAB	span>I-MAB
+304	span>IMGN	span>ImmunoGen Inc.
+305	span>IMMP	span>Immutep Limited
+306	span>IMMU	span>Immunomedics Inc.
+307	span>IMNM	span>Immunome Inc.
+308	span>IMRA	span>IMARA Inc.
+309	span>IMRN	span>Immuron Limited
+310	span>IMUX	span>Immunic Inc.
+311	span>IMV	span>IMV Inc.
+312	span>IMVT	span>Immunovant Inc.
+313	span>INBX	span>Inhibrx Inc.
+314	span>INCY	span>Incyte Corporation
+315	span>INFI	span>Infinity Pharmaceuticals Inc.
+316	span>INMB	span>INmune Bio Inc.
+317	span>INNT	span>
+318	span>INO	span>Inovio Pharmaceuticals Inc.
+319	span>INSM	span>Insmed Inc.
+320	span>INVA	span>Innoviva Inc.
+321	span>INZY	span>Inozyme Pharma Inc.
+322	span>IONS	span>Ionis Pharmaceuticals Inc.
+323	span>IOVA	span>Iovance Biotherapeutics Inc.
+324	span>IPHA	span>Innate Pharma S.A.
+325	span>IRWD	span>Ironwood Pharmaceuticals Inc.
+326	span>ISEE	span>IVERIC bio Inc.
+327	span>ITCI	span>Intra-Cellular Therapies Inc.
+328	span>ITOS	span>iTeos Therapeutics Inc.
+329	span>ITRM	span>Iterum Therapeutics plc
+330	span>IVA	span>Inventiva S.A.
+331	span>JAGX	span>Jaguar Health Inc.
+332	span>JAZZ	span>Jazz Pharmaceuticals plc
+333	span>JNCE	span>Jounce Therapeutics Inc.
+334	span>JNJ	span>Johnson &amp; Johnson
+335	span>KALA	span>Kala Pharmaceuticals Inc.
+336	span>KALV	span>KalVista Pharmaceuticals Inc.
+337	span>KDMN	span>Kadmon Holdings Inc.
+338	span>KDNY	span>Chinook Therapeutics Inc.
+339	span>KLDO	span>Kaleido Biosciences Inc.
+340	span>KMDA	span>Kamada Ltd.
+341	span>KMPH	span>KemPharm Inc
+342	span>KNSA	span>Kiniksa Pharmaceuticals Ltd.
+343	span>KOD	span>Kodiak Sciences Inc
+344	span>KPTI	span>Karyopharm Therapeutics Inc.
+345	span>KRBP	span>
+346	span>KRON	span>Kronos Bio Inc.
+347	span>KROS	span>Keros Therapeutics Inc.
+348	span>KRTX	span>Karuna Therapeutics Inc.
+349	span>KRYS	span>Krystal Biotech Inc.
+350	span>KTOV	span>Kitov Pharma Ltd.
+351	span>KTRA	span>Kintara Therapeutics Inc.
+352	span>KURA	span>Kura Oncology Inc.
+353	span>KYMR	span>Kymera Therapeutics Inc.
+354	span>KZIA	span>Kazia Therapeutics Limited
+355	span>KZR	span>Kezar Life Sciences Inc.
+356	span>LCTX	"span>Lineage Cell Therapeutics, Inc."
+357	span>LEGN	span>Legend Biotech Corporation
+358	span>LGND	span>Ligand Pharmaceuticals Incorporated
+359	span>LIFE	span>aTyr Pharma Inc.
+360	span>LJPC	span>La Jolla Pharmaceutical Company
+361	span>LLY	span>Eli Lilly and Company
+362	span>LNTH	span>Lantheus Holdings Inc.
+363	span>LOGC	span>LogicBio Therapeutics Inc.
+364	span>LPCN	span>Lipocine Inc.
+365	span>LPTX	span>Leap Therapeutics Inc.
+366	span>LQDA	span>Liquidia Technologies Inc.
+367	span>LRMR	span>Larimar Therapeutics Inc.
+368	span>LUMO	span>Lumos Pharma Inc.
+369	span>LXRX	span>Lexicon Pharmaceuticals Inc.
+370	span>LYRA	span>Lyra Therapeutics Inc.
+371	span>MACK	span>Merrimack Pharmaceuticals Inc.
+372	span>MBIO	span>Mustang Bio Inc.
+373	span>MBRX	span>Moleculin Biotech Inc.
+374	span>MCRB	span>Seres Therapeutics Inc.
+375	span>MDGL	span>Madrigal Pharmaceuticals Inc.
+376	span>MDWD	span>MediWound Ltd.
+377	span>MEIP	span>MEI Pharma Inc.
+378	span>MESO	span>Mesoblast Limited
+379	span>MGEN	span>Miragen Therapeutics Inc.
+380	span>MGNX	span>MacroGenics Inc.
+381	span>MGTA	span>Magenta Therapeutics Inc.
+382	span>MGTX	span>MeiraGTx Holdings plc
+383	span>MIRM	span>Mirum Pharmaceuticals Inc.
+384	span>MIST	span>Milestone Pharmaceuticals Inc.
+385	span>MITO	span>Stealth BioTherapeutics Corp.
+386	span>MLND	span>Millendo Therapeutics Inc.
+387	span>MNK	span>Mallinckrodt plc
+388	span>MNKD	span>MannKind Corporation
+389	span>MNLO	span>VYNE Therapeutics
+390	span>MNOV	span>MediciNova Inc.
+391	span>MNPR	span>Monopar Therapeutics Inc.
+392	span>MOR	span>MorphoSys AG
+393	span>MORF	span>Morphic Holding Inc.
+394	span>MREO	span>Mereo BioPharma Group plc
+395	span>MRK	span>Merck &amp; Company Inc. (new)
+396	span>MRKR	span>Marker Therapeutics Inc.
+397	span>MRNA	span>Moderna Inc.
+398	span>MRNS	span>Marinus Pharmaceuticals Inc.
+399	span>MRSN	span>Mersana Therapeutics Inc.
+400	span>MRTX	span>Mirati Therapeutics Inc.
+401	span>MRUS	span>Merus N.V.
+402	span>MTCR	span>Metacrine Inc.
+403	span>MTEM	span>Molecular Templates Inc.
+404	span>MTNB	span>Matinas Biopharma Holdings Inc.
+405	span>MYL	span>Mylan N.V.
+406	span>MYOK	span>MyoKardia Inc.
+407	span>MYOV	span>Myovant Sciences Ltd.
+408	span>NAVB	span>Navidea Biopharmaceuticals Inc.
+409	span>NBIX	span>Neurocrine Biosciences Inc.
+410	span>NBRV	span>Nabriva Therapeutics plc
+411	span>NBY	span>NovaBay Pharmaceuticals Inc.
+412	span>NCNA	span>NuCana plc
+413	span>NEOS	span>Neos Therapeutics Inc.
+414	span>NERV	span>Minerva Neurosciences Inc
+415	span>NGM	span>NGM Biopharmaceuticals Inc.
+416	span>NK	span>NantKwest Inc.
+417	span>NKTR	span>Nektar Therapeutics
+418	span>NKTX	span>Nkarta Inc.
+419	span>NLTX	span>Neoleukin Therapeutics Inc.
+420	span>NMTR	span>9 Meters Biopharma Inc.
+421	span>NNVC	span>NanoViricides Inc.
+422	span>NOVN	span>Novan Inc.
+423	span>NRBO	span>NeuroBo Pharmaceuticals Inc.
+424	span>NRIX	span>Nurix Therapeutics Inc.
+425	span>NTEC	span>Intec Pharma Ltd.
+426	span>NTLA	span>Intellia Therapeutics Inc.
+427	span>NTRP	span>Neurotrope Inc.
+428	span>NVAX	span>Novavax Inc.
+429	span>NVCR	span>NovoCure Limited
+430	span>NVIV	span>InVivo Therapeutics Holdings Corp.
+431	span>NVO	span>Novo Nordisk A/S
+432	span>NVS	span>Novartis AG
+433	span>NVUS	span>Novus Therapeutics Inc.
+434	span>NWRN	span>
+435	span>NXTC	span>NextCure Inc.
+436	span>NYMX	span>Nymox Pharmaceutical Corporation
+437	span>OBSV	span>ObsEva SA
+438	span>OCGN	"span>Ocugen, Inc."
+439	span>OCUL	span>Ocular Therapeutix Inc.
+440	span>ODT	span>Odonate Therapeutics Inc.
+441	span>OGEN	span>Oragenics Inc.
+442	span>OMER	span>Omeros Corporation
+443	span>ONCR	span>Oncorus Inc.
+444	span>ONCS	span>OncoSec Medical Incorporated
+445	span>ONCT	span>Oncternal Therapeutics Inc.
+446	span>ONCY	span>Oncolytics Biotech Inc.
+447	span>ONTX	span>Onconova Therapeutics Inc.
+448	span>OPK	span>Opko Health Inc.
+449	span>OPNT	span>Opiant Pharmaceuticals Inc.
+450	span>OPTN	span>OptiNose Inc.
+451	span>ORIC	span>Oric Pharmaceuticals Inc.
+452	span>ORMP	span>Oramed Pharmaceuticals Inc.
+453	span>ORTX	span>Orchard Therapeutics plc
+454	span>OSMT	span>Osmotica Pharmaceuticals plc
+455	span>OTIC	span>Otonomy Inc.
+456	span>OTLK	span>Outlook Therapeutics Inc.
+457	span>OVID	span>Ovid Therapeutics Inc.
+458	span>OYST	span>Oyster Point Pharma Inc.
+459	span>PASG	span>Passage Bio Inc.
+460	span>PBYI	span>Puma Biotechnology Inc
+461	span>PCRX	span>Pacira BioSciences Inc.
+462	span>PCVX	span>Vaxcyte Inc.
+463	span>PDSB	span>PDS Biotechnology Corporation
+464	span>PFE	span>Pfizer Inc.
+465	span>PFRX	span>
+466	span>PGEN	span>Precigen Inc.
+467	span>PHAS	span>PhaseBio Pharmaceuticals Inc.
+468	span>PHAT	span>Phathom Pharmaceuticals Inc.
+469	span>PHIO	span>Phio Pharmaceuticals Corp.
+470	span>PIRS	span>Pieris Pharmaceuticals Inc.
+471	span>PLRX	span>Pliant Therapeutics Inc.
+472	span>PLUS	span>ePlus inc.
+473	span>PLX	span>Protalix BioTherapeutics Inc. (DE)
+474	span>PLXP	span>PLx Pharma Inc.
+475	span>PNSL	span>
+476	span>PRAX	span>
+477	span>PROG	span>Progenity Inc.
+478	span>PRQR	span>ProQR Therapeutics N.V.
+479	span>PRTA	span>Prothena Corporation plc
+480	span>PRTK	span>Paratek Pharmaceuticals Inc.
+481	span>PRVB	span>Provention Bio Inc.
+482	span>PRVL	span>Prevail Therapeutics Inc.
+483	span>PSNL	span>Personalis Inc.
+484	span>PSTI	span>Pluristem Therapeutics Inc.
+485	span>PSTV	span>PLUS THERAPEUTICS Inc.
+486	span>PSTX	span>Poseida Therapeutics Inc.
+487	span>PTCT	span>PTC Therapeutics Inc.
+488	span>PTGX	span>Protagonist Therapeutics Inc.
+489	span>PTI	span>Proteostasis Therapeutics Inc.
+490	span>PTN	span>Palatin Technologies Inc.
+491	span>PULM	span>Pulmatrix Inc.
+492	span>PYPD	span>PolyPid Ltd.
+493	span>QLGN	span>Qualigen Therapeutics Inc.
+494	span>QURE	span>uniQure N.V.
+495	span>RAPT	span>RAPT Therapeutics Inc.
+496	span>RARE	span>Ultragenyx Pharmaceutical Inc.
+497	span>RCKT	span>Rocket Pharmaceuticals Inc.
+498	span>RCUS	span>Arcus Biosciences Inc.
+499	span>RDHL	span>Redhill Biopharma Ltd.
+500	span>RDUS	span>Radius Health Inc.
+501	span>REGN	span>Regeneron Pharmaceuticals Inc.
+502	span>REPH	span>Recro Pharma Inc.
+503	span>REPL	span>Replimune Group Inc.
+504	span>RETA	span>Reata Pharmaceuticals Inc.
+505	span>REXN	span>Rexahn Pharmaceuticals Inc.
+506	span>RGEN	span>Repligen Corporation
+507	span>RGLS	span>Regulus Therapeutics Inc.
+508	span>RGNX	span>REGENXBIO Inc.
+509	span>RHHBY	span>Roche Holding AG ADR
+510	span>RIGL	span>Rigel Pharmaceuticals Inc.
+511	span>RLAY	span>Relay Therapeutics Inc.
+512	span>RLMD	span>Relmada Therapeutics Inc.
+513	span>RMTI	span>Rockwell Medical Inc.
+514	span>RNA	span>Avidity Biosciences Inc.
+515	span>RNLX	span>Renalytix AI plc
+516	span>RPTX	span>Repare Therapeutics Inc.
+517	span>RTRX	span>Retrophin Inc.
+518	span>RUBY	span>Rubius Therapeutics Inc.
+519	span>RVMD	span>Revolution Medicines Inc - Ordinary Shares
+520	span>RVNC	span>Revance Therapeutics Inc.
+521	span>RVVTF	span>Revive Therapeutics Ltd
+522	span>RYTM	span>Rhythm Pharmaceuticals Inc.
+523	span>SAGE	span>Sage Therapeutics Inc.
+524	span>SAVA	span>Cassava Sciences Inc.
+525	span>SBBP	span>Strongbridge Biopharma plc
+526	span>SBPH	span>Spring Bank Pharmaceuticals Inc.
+527	span>SCPH	span>scPharmaceuticals Inc.
+528	span>SCYX	span>SCYNEXIS Inc.
+529	span>SEEL	span>Seelos Therapeutics Inc.
+530	span>SELB	span>Selecta Biosciences Inc.
+531	span>SESN	span>Sesen Bio Inc.
+532	span>SGEN	span>Seagen Inc Com
+533	span>SGMO	span>Sangamo Therapeutics Inc.
+534	span>SIGA	span>SIGA Technologies Inc.
+535	span>SLDB	span>Solid Biosciences Inc.
+536	span>SLGL	span>Sol-Gel Technologies Ltd.
+537	span>SLNO	span>Soleno Therapeutics Inc.
+538	span>SLRX	span>Salarius Pharmaceuticals Inc.
+539	span>SLS	span>SELLAS Life Sciences Group Inc.
+540	span>SMMT	span>Summit Therapeutics Inc.
+541	span>SNCA	span>Seneca Biopharma Inc.
+542	span>SNDX	span>Syndax Pharmaceuticals Inc.
+543	span>SNGX	span>Soligenix Inc.
+544	span>SNSS	span>Sunesis Pharmaceuticals Inc.
+545	span>SNY	span>Sanofi
+546	span>SONN	span>Sonnet BioTherapeutics Holdings Inc.
+547	span>SPPI	span>Spectrum Pharmaceuticals Inc.
+548	span>SPRB	span>Spruce Biosciences Inc.
+549	span>SPRO	span>Spero Therapeutics Inc.
+550	span>SRNE	span>Sorrento Therapeutics Inc.
+551	span>SRPT	span>Sarepta Therapeutics Inc.
+552	span>SRRA	span>Sierra Oncology Inc.
+553	span>SRRK	span>Scholar Rock Holding Corporation
+554	span>STOK	span>Stoke Therapeutics Inc.
+555	span>STRO	span>Sutro Biopharma Inc.
+556	span>STSA	span>Satsuma Pharmaceuticals Inc.
+557	span>STTK	span>Shattuck Labs Inc.
+558	span>SUPN	span>Supernus Pharmaceuticals Inc.
+559	span>SURF	span>Surface Oncology Inc.
+560	span>SVA	span>Sinovac Biotech Ltd.
+561	span>SVRA	span>Savara Inc.
+562	span>SWTX	span>SpringWorks Therapeutics Inc.
+563	span>SYBX	span>Synlogic Inc.
+564	span>SYN	span>Synthetic Biologics Inc.
+565	span>SYRS	span>Syros Pharmaceuticals Inc.
+566	span>TAK	span>Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of)
+567	span>TARA	span>Protara Therapeutics Inc.
+568	span>TBIO	span>Translate Bio Inc.
+569	span>TBPH	span>Theravance Biopharma Inc.
+570	span>TCDA	span>Tricida Inc.
+571	span>TCON	span>TRACON Pharmaceuticals Inc.
+572	span>TCRR	span>TCR2 Therapeutics Inc.
+573	span>TENX	span>Tenax Therapeutics Inc.
+574	span>TEVA	span>Teva Pharmaceutical Industries Limited American Depositary Shares
+575	span>TFFP	span>TFF Pharmaceuticals Inc - Ordinary Shares
+576	span>TGTX	span>TG Therapeutics Inc.
+577	span>TLC	span>Taiwan Liposome Company Ltd.
+578	span>TLSA	span>Tiziana Life Sciences plc
+579	span>TMBR	span>Timber Pharmaceuticals Inc.
+580	span>TNXP	span>Tonix Pharmaceuticals Holding Corp.
+581	span>TOCA	span>Tocagen
+582	span>TPTX	span>Turning Point Therapeutics Inc.
+583	span>TRIL	span>Trillium Therapeutics Inc.
+584	span>TRVI	span>Trevi Therapeutics Inc.
+585	span>TRVN	span>Trevena Inc.
+586	span>TTNP	span>Titan Pharmaceuticals Inc.
+587	span>TXMD	span>TherapeuticsMD Inc.
+588	span>TYME	span>Tyme Technologies Inc.
+589	span>UBX	span>Unity Biotechnology Inc.
+590	span>URGN	span>UroGen Pharma Ltd.
+591	span>UROV	span>Urovant Sciences Ltd.
+592	span>UTHR	span>United Therapeutics Corporation
+593	span>VBIV	span>VBI Vaccines Inc.
+594	span>VBLT	span>Vascular Biogenics Ltd.
+595	span>VCEL	span>Vericel Corporation
+596	span>VCNX	span>Vaccinex Inc.
+597	span>VERU	span>Veru Inc.
+598	span>VIE	span>Viela Bio Inc.
+599	span>VIR	span>Vir Biotechnology Inc.
+600	span>VKTX	span>Viking Therapeutics Inc.
+601	span>VNDA	span>Vanda Pharmaceuticals Inc.
+602	span>VRCA	span>Verrica Pharmaceuticals Inc.
+603	span>VRNA	span>Verona Pharma plc
+604	span>VRTX	span>Vertex Pharmaceuticals Incorporated
+605	span>VSTM	span>Verastem Inc.
+606	span>VTGN	span>VistaGen Therapeutics Inc.
+607	span>VTVT	span>vTv Therapeutics Inc.
+608	span>VVUS	span>
+609	span>VXRT	span>Vaxart Inc.
+610	span>VYGR	span>Voyager Therapeutics Inc.
+611	span>WVE	span>Wave Life Sciences Ltd.
+612	span>XBIO	span>Xenetic Biosciences Inc.
+613	span>XBIT	span>XBiotech Inc.
+614	span>XENE	span>Xenon Pharmaceuticals Inc.
+615	span>XENT	span>Intersect ENT Inc.
+616	span>XERS	span>Xeris Pharmaceuticals Inc.
+617	span>XFOR	span>X4 Pharmaceuticals Inc.
+618	span>XLRN	span>Acceleron Pharma Inc.
+619	span>XNCR	span>Xencor Inc.
+620	span>XOMA	span>XOMA Corporation
+621	span>XTLB	span>XTL Biopharmaceuticals Ltd.
+622	span>XXII	span>22nd Century Group Inc.
+623	span>YMAB	span>Y-mAbs Therapeutics Inc.
+624	span>ZEAL	span>Zealand Pharma A/S
+625	span>ZGNX	span>Zogenix Inc.
+626	span>ZIOP	span>ZIOPHARM Oncology Inc
+627	span>ZLAB	span>Zai Lab Limited
+628	span>ZNTL	span>Zentalis Pharmaceuticals Inc.
+629	span>ZSAN	span>Zosano Pharma Corporation
+630	span>ZYME	span>Zymeworks Inc.
+631	span>ZYNE	span>Zynerba Pharmaceuticals Inc.

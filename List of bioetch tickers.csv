@@ -1,0 +1,728 @@
+S.No.,Company,Ticker
+1,10x Genomics,TXG
+2,89bio,ETNB
+3,Abeona Therapeutics Inc.,ABEO
+4,AC Immune SA,ACIU
+5,ACADIA Pharmaceuticals Inc.,ACAD
+6,"Acasti Pharma, Inc.",ACST
+7,"Accelerate Diagnostics, Inc.",AXDX
+8,Acceleron Pharma Inc.,XLRN
+9,"AcelRx Pharmaceuticals, Inc.",ACRX
+10,Acer Therapeutics Inc.,ACER
+11,"Achaogen, Inc.",AKAO
+12,"Achieve Life Sciences, Inc.",ACHV
+13,"Aclaris Therapeutics, Inc.",ACRS
+14,"Acorda Therapeutics, Inc.",ACOR
+15,Acutus Medical,AFIB
+16,"Adamas Pharmaceuticals, Inc.",ADMS
+17,Adamis Pharmaceuticals Corporation,ADMP
+18,Adaptimmune Therapeutics plc,ADAP
+19,Adaptive Biotechnologies,ADPT
+20,ADC Therapeutics America SA,ADCT
+21,"Adial Pharmaceuticals, Inc",ADIL
+22,ADMA Biologics Inc,ADMA
+23,"Aduro Biotech, Inc.",ADRO
+24,"Advaxis, Inc.",ADXS
+25,"Adverum Biotechnologies, Inc.",ADVM
+26,"Aeglea BioTherapeutics, Inc.",AGLE
+27,"Aerie Pharmaceuticals, Inc.",AERI
+28,"Aerpio Pharmaceuticals, Inc.",ARPO
+29,Aesthetic Medical International Holdings Group,AIH
+30,AEterna Zentaris Inc.,AEZS
+31,"Aethlon Medical, Inc.",AEMD
+32,"Aevi Genomic Medicine, Inc.",GNMX
+33,Affimed N.V.,AFMD
+34,Agenus Inc.,AGEN
+35,"Agile Therapeutics, Inc.",AGRX
+36,"Agios Pharmaceuticals, Inc.",AGIO
+37,"Aileron Therapeutics, Inc.",ALRN
+38,"Aimmune Therapeutics, Inc.",AIMT
+39,Akari Therapeutics Plc,AKTX
+40,"Akcea Therapeutics, Inc.",AKCA
+41,"Akebia Therapeutics, Inc.",AKBA
+42,"Akero Therapeutics, Inc",AKRO
+43,Akers Biosciences Inc.,AKER
+44,"Akorn, Inc.",AKRX
+45,Akouos,AKUS
+46,"Albireo Pharma, Inc.",ALBO
+47,"Alder BioPharmaceuticals, Inc.",ALDR
+48,"Aldeyra Therapeutics, Inc.",ALDX
+49,"Alector, Inc",ALEC
+50,"Alexion Pharmaceuticals, Inc.",ALXN
+51,"Alimera Sciences, Inc.",ALIM
+52,Alkermes plc,ALKS
+53,Allakos Inc.,ALLK
+54,"Allena Pharmaceuticals, Inc.",ALNA
+55,"Allogene Therapeutics, Inc.",ALLO
+56,AlloVir,ALVR
+57,"Alnylam Pharmaceuticals, Inc.",ALNY
+58,"Alpine Immune Sciences, Inc.",ALPN
+59,"Altimmune, Inc.",ALT
+60,ALX Oncology Holdings,ALXO
+61,"Alzheon, Inc.",ALZH
+62,"AMAG Pharmaceuticals, Inc.",AMAG
+63,Amarin Corporation plc,AMRN
+64,Amgen Inc.,AMGN
+65,"Amicus Therapeutics, Inc.",FOLD
+66,"Amphastar Pharmaceuticals, Inc.",AMPH
+67,"AnaptysBio, Inc.",ANAB
+68,Anavex Life Sciences Corp.,AVXL
+69,Anchiano Therapeutics Ltd.,ANCN
+70,"ANI Pharmaceuticals, Inc.",ANIP
+71,"Annovis Bio, Inc.",ANVS
+72,"AnPac Bio-Medical Science Co., Ltd",ANPC
+73,"Apellis Pharmaceuticals, Inc.",APLS
+74,Applied Genetic Technologies Corporation,AGTC
+75,Applied Molecular Transport,AMTI
+76,Applied Therapeutics,APLT
+77,"Aprea Therapeutics, Inc.",APRE
+78,"Apricus Biosciences, Inc.",APRI
+79,Aptevo Therapeutics Inc.,APVO
+80,Aptinyx Inc.,APTX
+81,"Aptose Biosciences, Inc.",APTO
+82,"Aquestive Therapeutics, Inc.",AQST
+83,"Aquinox Pharmaceuticals, Inc.",AQXP
+84,Aradigm Corporation,ARDM
+85,"Aratana Therapeutics, Inc.",PETX
+86,"Aravive, Inc.",ARAV
+87,Arbutus Biopharma Corporation,ABUS
+88,"ARCA biopharma, Inc.",ABIO
+89,Arcturus Therapeutics Ltd.,ARCT
+90,"Arcutis Biotherapeutics, Inc.",ARQT
+91,"Ardelyx, Inc.",ARDX
+92,"Arena Pharmaceuticals, Inc.",ARNA
+93,argenx SE,ARGX
+94,Aridis Pharmaceuticals Inc.,ARDS
+95,"ArQule, Inc.",ARQL
+96,"Arrowhead Pharmaceuticals, Inc.",ARWR
+97,"Arsanis, Inc.",ASNS
+98,"Arvinas, Inc.",ARVN
+99,Ascendis Pharma A/S,ASND
+100,ASLAN Pharmaceuticals Limited,ASLN
+101,"Assembly Biosciences, Inc.",ASMB
+102,"Assertio Therapeutics, Inc.",ASRT
+103,Astrotech Corporation,ASTC
+104,"Atara Biotherapeutics, Inc.",ATRA
+105,"Athenex, Inc.",ATNX
+106,"Athersys, Inc.",ATHX
+107,Atossa Genetics Inc.,ATOS
+108,"Atreca, Inc.",BCEL
+109,"aTyr Pharma, Inc.",LIFE
+110,"Audentes Therapeutics, Inc.",BOLD
+111,Aurinia Pharmaceuticals Inc,AUPH
+112,Auris Medical Holding AG,EARS
+113,Autolus Therapeutics plc,AUTL
+114,Avadel Pharmaceuticals plc,AVDL
+115,Avantor,AVTR
+116,Avedro,AVDR
+117,"Avenue Therapeutics, Inc.",ATXI
+118,"AVEO Pharmaceuticals, Inc.",AVEO
+119,"Avid Bioservices, Inc.",CDMO
+120,Avidity Biosciences,RNA
+121,"AVROBIO, Inc.",AVRO
+122,Axcella Health,AXLA
+123,"AxoGen, Inc.",AXGN
+124,Axovant Sciences Ltd.,AXON
+125,"Axsome Therapeutics, Inc.",AXSM
+126,Ayala Pharmaceuticals,AYLA
+127,"Aytu BioScience, Inc.",AYTU
+128,"AzurRx BioPharma, Inc.",AZRX
+129,Beam Therapeutics,BEAM
+130,"BeiGene, Ltd.",BGNE
+131,"Bellerophon Therapeutics, Inc.",BLPH
+132,"Bellicum Pharmaceuticals, Inc.",BLCM
+133,Benitec Biopharma Limited,BNTC
+134,Berkeley Lights,BLI
+135,"BeyondSpring, Inc.",BYSI
+136,Bicycle Therapeutics Limited,BCYC
+137,"Bioanalytical Systems, Inc.",BASI
+138,Bioblast Pharma Ltd.,ORPN
+139,"BioCryst Pharmaceuticals, Inc.",BCRX
+140,"BioDelivery Sciences International, Inc.",BDSI
+141,Biofrontera AG,BFRA
+142,Biogen Inc.,BIIB
+143,"BioLife Solutions, Inc.",BLFS
+144,BioLineRx Ltd.,BLRX
+145,BioMarin Pharmaceutical Inc.,BMRN
+146,"Bionano Genomics, Inc.",BNGO
+147,BiondVax Pharmaceuticals Ltd.,BVXV
+148,BioNTech SE,BNTX
+149,"Bio-Path Holdings, Inc.",BPTH
+150,"BioSig Technologies, Inc.",BSGM
+151,BioSpecifics Technologies Corp,BSTC
+152,Bio-Techne Corp,TECH
+153,"BioXcel Therapeutics, Inc.",BTAI
+154,Bison Capital Acquisition Corp.,BCAC
+155,"Black Diamond Therapeutics, Inc.",BDTX
+156,"bluebird bio, Inc.",BLUE
+157,Blueprint Medicines Corporation,BPMC
+158,Brainstorm Cell Therapeutics Inc.,BCLI
+159,Brainsway Ltd.,BWAY
+160,BridgeBio Pharma,BBIO
+161,Bruker Corporation,BRKR
+162,Burning Rock Biotech Ltd.,BNR
+163,Cabaletta Bio,CABA
+164,Calliditas Therapeutics AB,CALT
+165,"Calithera Biosciences, Inc.",CALA
+166,"Capricor Therapeutics, Inc.",CAPR
+167,"Cara Therapeutics, Inc.",CARA
+168,"CASI Pharmaceuticals, Inc.",CASI
+169,Castle Biosciences,CSTL
+170,"Catabasis Pharmaceuticals, Inc.",CATB
+171,"Catalyst Biosciences, Inc.",CBIO
+172,"Catalyst Pharmaceuticals, Inc.",CPRX
+173,Celgene Corporation,CELG
+174,"Celldex Therapeutics, Inc.",CLDX
+175,Cellect Biotechnology Ltd.,APOP
+176,"Cellectar Biosciences, Inc.",CLRB
+177,Cellectis S.A.,CLLS
+178,"Cellular Biomedicine Group, Inc.",CBMG
+179,Celsion Corporation,CLSN
+180,Celyad SA,CYAD
+181,Centogene B.V.,CNTG
+182,Centrexion Therapeutics Corporation,CNTX
+183,Cerecor Inc.,CERC
+184,"Champions Oncology, Inc.",CSBR
+185,Checkmate Pharmaceuticals,CMPI
+186,"Checkpoint Therapeutics, Inc.",CKPT
+187,"Chembio Diagnostics, Inc.",CEMI
+188,"ChemoCentryx, Inc.",CCXI
+189,"CHF Solutions, Inc.",CHFS
+190,"Chiasma, Inc.",CHMA
+191,"Chimerix, Inc.",CMRX
+192,"China Biologic Products Holdings, Inc.",CBPO
+193,"Cidara Therapeutics, Inc.",CDTX
+194,"Citius Pharmaceuticals, Inc.",CTXR
+195,"Clearside Biomedical, Inc.",CLSD
+196,Clementia Pharmaceuticals Inc.,CMTA
+197,"Cleveland BioLabs, Inc.",CBLI
+198,"Clovis Oncology, Inc.",CLVS
+199,CNS Pharmaceuticals,CNSP
+200,"Cocrystal Pharma, Inc.",COCP
+201,"CohBar, Inc.",CWBR
+202,"Coherent, Inc.",COHR
+203,"Coherus BioSciences, Inc.",CHRS
+204,"Collegium Pharmaceutical, Inc.",COLL
+205,Compugen Ltd.,CGEN
+206,Conatus Pharmaceuticals Inc.,CNAT
+207,"Concert Pharmaceuticals, Inc.",CNCE
+208,CONMED Corporation,CNMD
+209,"Constellation Pharmaceuticals, Inc.",CNST
+210,ContraFect Corporation,CFRX
+211,ContraVir Pharmaceuticals Inc.,CTRV
+212,"Corbus Pharmaceuticals Holdings, Inc.",CRBP
+213,Corcept Therapeutics Incorporated,CORT
+214,Correvio Pharma Corp.,CORV
+215,Cortexyme,CRTX
+216,"Corvus Pharmaceuticals, Inc.",CRVS
+217,"Crinetics Pharmaceuticals, Inc.",CRNX
+218,CRISPR Therapeutics AG,CRSP
+219,CTI BioPharma Corp.,CTIC
+220,"Cue Biopharma, Inc.",CUE
+221,Cumberland Pharmaceuticals Inc.,CPIX
+222,CureVac N.V.,CVAC
+223,"Curis, Inc.",CRIS
+224,"Cutera, Inc.",CUTR
+225,"Cyclacel Pharmaceuticals, Inc.",CYCC
+226,CymaBay Therapeutics Inc.,CBAY
+227,"Cytokinetics, Incorporated",CYTK
+228,"CytomX Therapeutics, Inc.",CTMX
+229,CytRx Corporation,CYTR
+230,"Dare Bioscience, Inc.",DARE
+231,DBV Technologies S.A.,DBVT
+232,"Deciphera Pharmaceuticals, Inc.",DCPH
+233,"DelMar Pharmaceuticals, Inc.",DMPI
+234,Denali Therapeutics Inc.,DNLI
+235,"Dermira, Inc.",DERM
+236,DiaMedica Therapeutics Inc.,DMAC
+237,"Dicerna Pharmaceuticals, Inc.",DRNA
+238,Diffusion Pharmaceuticals Inc.,DFFN
+239,Digirad Corporation,DRAD
+240,"Dova Pharmaceuticals, Inc.",DOVA
+241,DURECT Corporation,DRRX
+242,Dynavax Technologies Corporation,DVAX
+243,"Eagle Pharmaceuticals, Inc.",EGRX
+244,EDAP TMS S.A.,EDAP
+245,"Edge Therapeutics, Inc.",EDGE
+246,"Editas Medicine, Inc.",EDIT
+247,"Eidos Therapeutics, Inc.",EIDX
+248,"Eiger BioPharmaceuticals, Inc.",EIGR
+249,"electroCore, Inc.",ECOR
+250,"Eloxx Pharmaceuticals, Inc.",ELOX
+251,"Enanta Pharmaceuticals, Inc.",ENTA
+252,Endo International plc,ENDP
+253,ENDRA Life Sciences Inc.,NDRA
+254,"Enochian Biosciences, Inc.",ENOB
+255,Entasis Therapeutics Holdings Inc.,ETTX
+256,Entera Bio Ltd.,ENTX
+257,Envista Holdings,NVST
+258,"Epizyme, Inc.",EPZM
+259,"Equillium, Inc.",EQ
+260,Erytech Pharma S.A.,ERYP
+261,"Esperion Therapeutics, Inc.",ESPR
+262,ESSA Pharma Inc.,EPIX
+263,"Eton Pharmaceutcials, Inc.",ETON
+264,"Evelo Biosciences, Inc.",EVLO
+265,"Evofem Biosciences, Inc.",EVFM
+266,"Evoke Pharma, Inc.",EVOK
+267,"Evolus, Inc.",EOLS
+268,Exact Sciences Corporation,EXAS
+269,Exagen,XGN
+270,"Exelixis, Inc.",EXEL
+271,"Eyegate Pharmaceuticals, Inc.",EYEG
+272,"Eyenovia, Inc.",EYEN
+273,"EyePoint Pharmaceuticals, Inc.",EYPT
+274,"Fate Therapeutics, Inc.",FATE
+275,Fennec Pharmaceuticals Inc.,FENC
+276,Fibrocell Science Inc.,FCSC
+277,"FibroGen, Inc",FGEN
+278,"Five Prime Therapeutics, Inc.",FPRX
+279,"Flex Pharma, Inc.",FLKS
+280,"Flexion Therapeutics, Inc.",FLXN
+281,Fluidigm Corporation,FLDM
+282,Fonar Corporation,FONR
+283,Forma Therapeutics Holdings,FMTX
+284,"Fortress Biotech, Inc.",FBIO
+285,"Forty Seven, Inc.",FTSV
+286,Forward Pharma A/S,FWP
+287,Freeline Therapeutics Holdings plc,FRLN
+288,Frequency Therapeutics,FREQ
+289,FSD Pharma Inc,HUGE
+290,Fulcrum Therapeutics,FULC
+291,Fusion Pharmaceuticals,FUSN
+292,"G1 Therapeutics, Inc.",GTHX
+293,Galapagos NV,GLPG
+294,Galectin Therapeutics Inc.,GALT
+295,Galera Therapeutics,GRTX
+296,Galmed Pharmaceuticals Ltd.,GLMD
+297,Gamida Cell Ltd.,GMDA
+298,Gemphire Therapeutics Inc.,GEMP
+299,Generation Bio,GBIO
+300,Genetic Technologies Ltd,GENE
+301,Genetron Holdings,GTH
+302,Genfit S.A.,GNFT
+303,Genmab A/S,GMAB
+304,"Genocea Biosciences, Inc.",GNCA
+305,"Genprex, Inc.",GNPX
+306,Geron Corporation,GERN
+307,"Gilead Sciences, Inc.",GILD
+308,"Global Blood Therapeutics, Inc.",GBT
+309,"GlycoMimetics, Inc.",GLYC
+310,Gossamer Bio,GOSS
+311,"Grifols, S.A.",GRFS
+312,"Gritstone Oncology, Inc.",GRTS
+313,"GTx, Inc.",GTXI
+314,Guardion Health Sciences,GHSI
+315,GW Pharmaceuticals Plc,GWPH
+316,"Halozyme Therapeutics, Inc.",HALO
+317,Happiness Biotech Group Limited,HAPP
+318,Harmony Biosciences Holdings,HRMY
+319,"Harpoon Therapeutics, Inc",HARP
+320,"Harvard Bioscience, Inc.",HBIO
+321,"Heat Biologics, Inc.",HTBX
+322,"Helius Medical Technologies, Inc.",HSDT
+323,"Heron Therapeutics, Inc.",HRTX
+324,Heska Corporation,HSKA
+325,"Homology Medicines, Inc.",FIXX
+326,HOOKIPA Pharma,HOOK
+327,Horizon Pharma plc,HZNP
+328,Hoth Therapeutics,HOTH
+329,"HTG Molecular Diagnostics, Inc.",HTGM
+330,Hutchison China MediTech Limited,HCM
+331,ICON plc,ICLR
+332,IDEAYA Biosciences,IDYA
+333,"Idera Pharmaceuticals, Inc.",IDRA
+334,"IDEXX Laboratories, Inc.",IDXX
+335,IGM Biosciences,IGMS
+336,"Illumina, Inc.",ILMN
+337,I-Mab,IMAB
+338,"IMAC Holdings, Inc.",IMAC
+339,ImmuCell Corporation,ICCC
+340,Immune Design Corp.,IMDZ
+341,"ImmunoGen, Inc.",IMGN
+342,"Immunomedics, Inc.",IMMU
+343,Immuron Limited,IMRN
+344,Immutep Limited,IMMP
+345,"Imprimis Pharmaceuticals, Inc.",IMMY
+346,IMV Inc.,IMV
+347,Inari Medical,NARI
+348,Incyte Corporation,INCY
+349,"Infinity Pharmaceuticals, Inc.",INFI
+350,InflaRx N.V.,IFRX
+351,Inhibrx,INBX
+352,Innate Pharma SA,IPHA
+353,"Innovate Biopharmaceuticals, Inc.",INNT
+354,"Innoviva, Inc.",INVA
+355,Inozyme Pharma,INZY
+356,"Insmed, Inc.",INSM
+357,"Insys Therapeutics, Inc.",INSY
+358,Intec Pharma Ltd.,NTEC
+359,"Intellia Therapeutics, Inc.",NTLA
+360,Intellipharmaceutics International Inc.,IPCI
+361,iTeos Therapeutics,ITOS
+362,"Intercept Pharmaceuticals, Inc.",ICPT
+363,Intra-Cellular Therapies Inc.,ITCI
+364,Intrexon Corporation,XON
+365,Inventiva S.A,IVA
+366,"Ionis Pharmaceuticals, Inc.",IONS
+367,"Iovance Biotherapeutics, Inc.",IOVA
+368,IRIDEX Corporation,IRIX
+369,"Ironwood Pharmaceuticals, Inc.",IRWD
+370,Iterum Therapeutics plc,ITRM
+371,"Jaguar Health, Inc.",JAGX
+372,Jazz Pharmaceuticals plc,JAZZ
+373,"Jounce Therapeutics, Inc.",JNCE
+374,"Kala Pharmaceuticals, Inc.",KALA
+375,Kaleido Biosciences,KLDO
+376,"KalVista Pharmaceuticals, Inc.",KALV
+377,Kamada Ltd.,KMDA
+378,Karuna Therapeutics,KRTX
+379,Karyopharm Therapeutics Inc.,KPTI
+380,"KemPharm, Inc.",KMPH
+381,"Keros Therapeutics, Inc.",KROS
+382,"Kezar Life Sciences, Inc.",KZR
+383,"Kindred Biosciences, Inc.",KIN
+384,"Kiniksa Pharmaceuticals, Ltd.",KNSA
+385,Kitov Pharma Ltd.,KTOV
+386,Kodiak Sciences Inc,KOD
+387,"Krystal Biotech, Inc.",KRYS
+388,"Kura Oncology, Inc.",KURA
+389,Kymera Therapeutics,KYMR
+390,La Jolla Pharmaceutical Company,LJPC
+391,"Lantheus Holdings, Inc.",LNTH
+392,"LEAP THERAPEUTICS, INC.",LPTX
+393,Legend Biotech,LEGN
+394,"Lexicon Pharmaceuticals, Inc.",LXRX
+395,Lifevantage Corporation,LFVN
+396,Ligand Pharmaceuticals Incorporated,LGND
+397,Lipocine Inc.,LPCN
+398,"Liquidia Technologies, Inc.",LQDA
+399,LivaNova PLC,LIVN
+400,Livongo Health,LVGO
+401,"LogicBio Therapeutics, Inc.",LOGC
+402,"Loxo Oncology, Inc.",LOXO
+403,Luna Innovations Incorporated,LUNA
+404,Lyra Therapeutics,LYRA
+405,"MacroGenics, Inc.",MGNX
+406,"Madrigal Pharmaceuticals, Inc.",MDGL
+407,"Magenta Therapeutics, Inc.",MGTA
+408,MannKind Corporation,MNKD
+409,"Marinus Pharmaceuticals, Inc.",MRNS
+410,"Marker Therapeutics, Inc.",MRKR
+411,Masimo Corporation,MASI
+412,"MediciNova, Inc.",MNOV
+413,"Medpace Holdings, Inc.",MEDP
+414,"MEI Pharma, Inc.",MEIP
+415,MeiraGTx Holdings plc,MGTX
+416,"Melinta Therapeutics, Inc.",MLNT
+417,Menlo Therapeutics Inc.,MNLO
+418,Meridian Bioscience Inc.,VIVO
+419,"Merrimack Pharmaceuticals, Inc.",MACK
+420,"Mersana Therapeutics, Inc.",MRSN
+421,Merus N.V.,MRUS
+422,Mesoblast Limited,MESO
+423,Microbot Medical Inc.,MBOT
+424,Midatech Pharma PLC,MTP
+425,Milestone Pharmaceuticals,MIST
+426,"Millendo Therapeutics, Inc.",MLND
+427,"Minerva Neurosciences, Inc",NERV
+428,"Mirati Therapeutics, Inc.",MRTX
+429,Mirum Pharmaceuticals,MIRM
+430,"Moderna, Inc.",MRNA
+431,"Molecular Templates, Inc.",MTEM
+432,"Moleculin Biotech, Inc.",MBRX
+433,"Momenta Pharmaceuticals, Inc.",MNTA
+434,Monopar Therapeutics,MNPR
+435,Morphic Holding,MORF
+436,MorphoSys AG,MOR
+437,Motif Bio plc,MTFB
+438,"Mustang Bio, Inc.",MBIO
+439,Mylan N.V.,MYL
+440,"MyoKardia, Inc.",MYOK
+441,MYOS RENS Technology Inc.,MYOS
+442,"Myriad Genetics, Inc.",MYGN
+443,Nabriva Therapeutics plc,NBRV
+444,"NanoString Technologies, Inc.",NSTG
+445,Nano-X Imaging Ltd.,NNOX
+446,"NantKwest, Inc.",NK
+447,National Research Corporation,NRC
+448,"Nature's Sunshine Products, Inc.",NATR
+449,Natus Medical Incorporated,BABY
+450,Nektar Therapeutics,NKTR
+451,Neogen Corporation,NEOG
+452,"Neon Therapeutics, Inc.",NTGN
+453,"Neos Therapeutics, Inc.",NEOS
+454,Neptune Wellness Solutions Inc.,NEPT
+455,"Neuralstem, Inc.",CUR
+456,"Neurocrine Biosciences, Inc.",NBIX
+457,"Neurotrope, Inc.",NTRP
+458,NewLink Genetics Corporation,NLNK
+459,NextCure,NXTC
+460,NGM Biopharmaceuticals,NGM
+461,Nightstar Therapeutics plc,NITE
+462,Nkarta,NKTX
+463,"Novan, Inc.",NOVN
+464,"Novavax, Inc.",NVAX
+465,Novelion Therapeutics Inc.,NVLN
+466,"Novus Therapeutics, Inc.",NVUS
+467,NuCana plc,NCNA
+468,Nurix Therapeutics,NRIX
+469,"NxStage Medical, Inc.",NXTM
+470,Nymox Pharmaceutical Corporation,NYMX
+471,Oak Street Health,OSH
+472,Oasmia Pharmaceutical AB,OASM
+473,ObsEva SA,OBSV
+474,"Ocular Therapeutix, Inc.",OCUL
+475,"Odonate Therapeutics, Inc.",ODT
+476,"Ohr Pharmaceutical, Inc.",OHRP
+477,Omeros Corporation,OMER
+478,Oncolytics Biotech Inc.,ONCY
+479,"OncoMed Pharmaceuticals, Inc.",OMED
+480,"Onconova Therapeutics, Inc.",ONTX
+481,OncoSec Medical Incorporated,ONCS
+482,Ophthotech Corporation,OPHT
+483,"Opko Health, Inc.",OPK
+484,"OptiNose, Inc.",OPTN
+485,Oramed Pharmaceuticals Inc.,ORMP
+486,Orchard Therapeutics plc,ORTX
+487,Organogenesis Holdings Inc.,ORGO
+488,"Organovo Holdings, Inc.",ONVO
+489,Orgenesis Inc.,ORGS
+490,Oric Pharmaceuticals,ORIC
+491,"Osiris Therapeutics, Inc.",OSIR
+492,Osmotica Pharmaceuticals plc,OSMT
+493,"Otonomy, Inc.",OTIC
+494,"Outlook Therapeutics, Inc.",OTLK
+495,Ovid Therapeutics Inc.,OVID
+496,Oxford Immunotec Global PLC,OXFD
+497,Oyster Point Pharma,OYST
+498,"Pacific Biosciences of California, Inc.",PACB
+499,"Pacira Pharmaceuticals, Inc.",PCRX
+500,"Pain Therapeutics, Inc.",PTIE
+501,PainReform Ltd,PRFX
+502,Pandion Therapeutics Holdco,PAND
+503,"Paratek Pharmaceuticals, Inc.",PRTK
+504,Passage BIO,PASG
+505,"PDL BioPharma, Inc.",PDLI
+506,"Pernix Therapeutics Holdings, Inc.",PTX
+507,"Personalis, Inc.",PSNL
+508,"PhaseBio Pharmaceuticals, Inc.",PHAS
+509,Phathom Pharmaceuticals,PHAT
+510,Phibro Animal Health Corporation,PAHC
+511,Phio Pharmaceuticals Corp.,PHIO
+512,"Pieris Pharmaceuticals, Inc.",PIRS
+513,Pliant Therapeutics,PLRX
+514,"Pluristem Therapeutics, Inc.",PSTI
+515,PLx Pharma Inc.,PLXP
+516,"PolarityTE, Inc.",PTE
+517,PolyPid,PYPD
+518,"Portola Pharmaceuticals, Inc.",PTLA
+519,Poseida Therapeutics,PSTX
+520,PPD,PPD
+521,"PRA Health Sciences, Inc.",PRAH
+522,Prana Biotechnology Ltd,PRAN
+523,"Precipio, Inc.",PRPO
+524,"Precision BioSciences, Inc",DTIL
+525,Prevail Therapeutics Inc,PRVL
+526,Principia Biopharma Inc.,PRNB
+527,Progenics Pharmaceuticals Inc.,PGNX
+528,Progenity,PROG
+529,Progyny,PGNY
+530,"ProPhase Labs, Inc.",PRPH
+531,ProQR Therapeutics N.V.,PRQR
+532,"Protagonist Therapeutics, Inc.",PTGX
+533,"Proteon Therapeutics, Inc.",PRTO
+534,"Proteostasis Therapeutics, Inc.",PTI
+535,Prothena Corporation plc,PRTA
+536,"Provention Bio, Inc.",PRVB
+537,"PTC Therapeutics, Inc.",PTCT
+538,"Pulmatrix, Inc.",PULM
+539,Puma Biotechnology Inc,PBYI
+540,Qiagen N.V.,QGEN
+541,Quanterix Corporation,QTRX
+542,Quidel Corporation,QDEL
+543,Quotient Limited,QTNT
+544,"Ra Pharmaceuticals, Inc.",RARX
+545,"Radius Health, Inc.",RDUS
+546,RAPT Therapeutics,RAPT
+547,Realm Therapeutics plc,RLM
+548,"Reata Pharmaceuticals, Inc.",RETA
+549,"Recro Pharma, Inc.",REPH
+550,Redhill Biopharma Ltd.,RDHL
+551,"Regeneron Pharmaceuticals, Inc.",REGN
+552,REGENXBIO Inc.,RGNX
+553,Regulus Therapeutics Inc.,RGLS
+554,Relay Therapeutics,RLAY
+555,"Reliv' International, Inc.",RELV
+556,Renalytix AI plc,RNLX
+557,Repare Therapeutics,RPTX
+558,Repligen Corporation,RGEN
+559,"Replimune Group, Inc.",REPL
+560,ReShape Lifesciences Inc.,RSLS
+561,"resTORbio, Inc.",TORC
+562,"Retrophin, Inc.",RTRX
+563,"Revance Therapeutics, Inc.",RVNC
+564,Revolution Medicines,RVMD
+565,"Rhythm Pharmaceuticals, Inc.",RYTM
+566,"Rigel Pharmaceuticals, Inc.",RIGL
+567,"Riot Blockchain, Inc",RIOT
+568,"Ritter Pharmaceuticals, Inc.",RTTR
+569,"Rocket Pharmaceuticals, Inc.",RCKT
+570,"Rockwell Medical, Inc.",RMTI
+571,Royalty Pharma plc,RPRX
+572,"Rubius Therapeutics, Inc.",RUBY
+573,"Sage Therapeutics, Inc.",SAGE
+574,"Sangamo Therapeutics, Inc.",SGMO
+575,Sanofi,GCVRZ
+576,"Sarepta Therapeutics, Inc.",SRPT
+577,Satsuma Pharmaceuticals,STSA
+578,"Savara, Inc.",SVRA
+579,Scholar Rock Holding Corporation,SRRK
+580,Schrodinger,SDGR
+581,scPharmaceuticals Inc.,SCPH
+582,"SCYNEXIS, Inc.",SCYX
+583,"Seattle Genetics, Inc.",SGEN
+584,"Second Sight Medical Products, Inc.",EYES
+585,"Selecta Biosciences, Inc.",SELB
+586,"SELLAS Life Sciences Group, Inc.",SLS
+587,"Seres Therapeutics, Inc.",MCRB
+588,"Sesen Bio, Inc.",SESN
+589,Shire plc,SHPG
+590,ShockWave Medical,SWAV
+591,"Sienna Biopharmaceuticals, Inc.",SNNA
+592,"Sierra Oncology, Inc.",SRRA
+593,SIGA Technologies Inc.,SIGA
+594,Silk Road Medical,SILK
+595,"Sinovac Biotech, Ltd.",SVA
+596,SmileDirectClub,SDC
+597,"Soleno Therapeutics, Inc.",SLNO
+598,Sol-Gel Technologies Ltd.,SLGL
+599,Solid Biosciences Inc.,SLDB
+600,"Soligenix, Inc.",SNGX
+601,"Sonoma Pharmaceuticals, Inc.",SNOA
+602,"Sophiris Bio, Inc.",SPHS
+603,"Sorrento Therapeutics, Inc.",SRNE
+605,"Spectrum Pharmaceuticals, Inc.",SPPI
+606,"Spero Therapeutics, Inc.",SPRO
+607,"Spring Bank Pharmaceuticals, Inc.",SBPH
+608,SpringWorks Therapeutics,SWTX
+609,Stealth BioTherapeutics,MITO
+610,"Stellar Biotechnologies, Inc.",SBOT
+611,"Stemline Therapeutics, Inc.",STML
+612,Stoke Therapeutics,STOK
+613,Strongbridge Biopharma plc,SBBP
+614,Summit Therapeutics plc,SMMT
+615,Sundial Growers,SNDL
+616,"Sunesis Pharmaceuticals, Inc.",SNSS
+617,"Supernus Pharmaceuticals, Inc.",SUPN
+618,"Surface Oncology, Inc.",SURF
+619,"Sutro Biopharma, Inc.",STRO
+620,"Syndax Pharmaceuticals, Inc.",SNDX
+621,"Syneos Health, Inc.",SYNH
+622,"Synergy Pharmaceuticals, Inc.",SGYP
+623,"Synlogic, Inc.",SYBX
+624,"Synthorx, Inc.",THOR
+625,"Syros Pharmaceuticals, Inc.",SYRS
+626,"Taiwan Liposome Company, Ltd.",TLC
+627,TCR2 Therapeutics,TCRR
+628,TELA Bio,TELA
+629,"Teligent, Inc.",TLGT
+630,"Tenax Therapeutics, Inc.",TENX
+631,"TESARO, Inc.",TSRO
+632,"Tetraphase Pharmaceuticals, Inc.",TTPH
+633,TFF Pharmaceuticals,TFFP
+634,"TG Therapeutics, Inc.",TGTX
+635,The Medicines Company,MDCO
+636,"TherapeuticsMD, Inc.",TXMD
+637,Therapix Biosciences Ltd.,TRPX
+638,"Theravance Biopharma, Inc.",TBPH
+639,"Titan Pharmaceuticals, Inc.",TTNP
+640,Tiziana Life Sciences plc,TLSA
+641,Tocagen Inc.,TOCA
+642,Tonix Pharmaceuticals Holding Corp.,TNXP
+643,"TRACON Pharmaceuticals, Inc.",TCON
+644,"Translate Bio, Inc.",TBIO
+645,TransMedics Group,TMDX
+646,"Trevena, Inc.",TRVN
+647,"Tricida, Inc.",TCDA
+648,Trillium Therapeutics Inc.,TRIL
+649,Trinity Biotech plc,TRIB
+650,"TrovaGene, Inc.",TROV
+651,Turning Point Therapeutics,TPTX
+652,Twist Bioscience Corporation,TWST
+653,"Tyme Technologies, Inc.",TYME
+654,Ultragenyx Pharmaceutical Inc.,RARE
+655,uniQure N.V.,QURE
+656,United Therapeutics Corporation,UTHR
+657,"Unity Biotechnology, Inc.",UBX
+658,Unum Therapeutics Inc.,UMRX
+659,UroGen Pharma Ltd.,URGN
+660,Urovant Sciences Ltd.,UROV
+661,"Vaccinex, Inc.",VCNX
+662,Vanda Pharmaceuticals Inc.,VNDA
+663,Vascular Biogenics Ltd.,VBLT
+664,"Vaxart, Inc.",VXRT
+665,Vaxcyte,PCVX
+666,"VBI Vaccines, Inc.",VBIV
+667,"Verastem, Inc.",VSTM
+668,Vericel Corporation,VCEL
+669,"Vermillion, Inc.",VRML
+670,Verona Pharma plc,VRNA
+671,Verrica Pharmaceuticals Inc.,VRCA
+672,Vertex Pharmaceuticals Incorporated,VRTX
+673,Veru Inc.,VERU
+674,Vical Incorporated,VICL
+675,"Viela Bio, Inc",VIE
+676,"ViewRay, Inc.",VRAY
+677,"Viking Therapeutics, Inc.",VKTX
+678,Vir Biotechnology,VIR
+679,"VistaGen Therapeutics, Inc.",VTGN
+680,"Visterra, Inc.",VIST
+681,"Vital Therapies, Inc.",VTL
+682,"Viveve Medical, Inc.",VIVE
+683,"VIVUS, Inc.",VVUS
+684,"Voyager Therapeutics, Inc.",VYGR
+685,vTv Therapeutics Inc.,VTVT
+686,WAVE Life Sciences Ltd.,WVE
+687,XBiotech Inc.,XBIT
+688,"Xencor, Inc.",XNCR
+689,"Xenetic Biosciences, Inc.",XBIO
+690,Xenon Pharmaceuticals Inc.,XENE
+691,"Xeris Pharmaceuticals, Inc.",XERS
+692,XOMA Corporation,XOMA
+693,XTL Biopharmaceuticals Ltd.,XTLB
+694,"Y-mAbs Therapeutics, Inc.",YMAB
+695,"Zafgen, Inc.",ZFGN
+696,Zai Lab Limited,ZLAB
+697,Zealand Pharma A/S,ZEAL
+698,"Zentalis Pharmaceuticals, LLC",ZNTL
+699,ZIOPHARM Oncology Inc,ZIOP
+700,"Zogenix, Inc.",ZGNX
+701,Zosano Pharma Corporation,ZSAN
+702,"Zynerba Pharmaceuticals, Inc.",ZYNE
+703,Celgene Corporation,CELG
+704,Qiagen N.V.,QGEN
+705,"Charles River Laboratories International, Inc.",CRL
+706,"IQVIA Holdings, Inc.",IQV
+707,Medtronic plc,MDT
+708,"Varian Medical Systems, Inc.",VAR
+709,"Agilent Technologies, Inc.",A
+710,"Avantor, Inc.",AVTR
+711,"Bio-Rad Laboratories, Inc.",BIO
+712,"Mettler-Toledo International, Inc.",MTD
+713,"PerkinElmer, Inc.",PKI
+714,Waters Corporation,WAT
+715,"Armata Pharmaceuticals, Inc.",ARMP
+716,BiomX Inc.,PHGE
+717,Cel-Sci Corporation,CVM
+718,"Hemispherx BioPharma, Inc.",AIM
+719,"Lineage Cell Therapeutics, Inc.",LCTX
+720,"Protalix BioTherapeutics, Inc.",PLX
+721,"Xtant Medical Holdings, Inc.",XTNT
+722,"NanoViricides, Inc.",NNVC
+723,"Electromed, Inc.",ELMD
+724,"Micron Solutions, Inc.",MICR
+725,"Stereotaxis, Inc.",STXS
+726,"Navidea Biopharmaceuticals, Inc.",NAVB
+727,OncoCyte Corporation,OCX
+728,VolitionRX Limited,VNRX
